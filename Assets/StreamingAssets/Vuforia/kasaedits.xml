@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="kasaedits" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="kasaeditss_assembly" assemblyId="d9188f085f014c8f9b6e685cd6c31f7b">
+<Part name="kasaedits" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0509769 0.130404 1.20886" rotation="AD: 0.9992972256053948 -0.11260914007278203 0.3707965010329634 211.619" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.0666724 0.102065 1.05185" rotation="AD: 0.9998673076718089 0.07004688272245835 -0.24893324041686177 210.478" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.0187335 0.108563 1.09377" rotation="AD: 0.9999999999891509 0.0011254935479443093 -0.004279509068892976 209.469" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.0289703 0.0502593 2.05192" rotation="AD: 0.98691895956992 -0.34424236021137605 0.6245568933610183 228.145" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
